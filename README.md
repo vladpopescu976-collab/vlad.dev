@@ -15,7 +15,7 @@ Open `index.html` directly in a browser.
 ## Notes
 
 - The contact links currently assume:
-  - GitHub: `github.com/vladpopescu`
+  - GitHub: `github.com/vladpopescu976-collab`
   - LinkedIn: `linkedin.com/in/vlad-popescu`
   - Email: `vladpopescu976@icloud.com`
 - The design is intentionally dark and product-focused, with Swift orange plus Python blue/yellow accents.
